@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 public class ValidarNombre {
 
-	static String[] apellidosValidos = {"Jimenes", "Blanco", "Ramos", "SANTANA", "Molina"};
+	static String[] apellidosValidos = {"Jimenes", "Blanco", "Ramos", "SANçTANA", "Molina"};
 	static String[] nombresValidos = {"CARLOS", "ANA", "CARMEN", "LUIS", "PEDRO"};
 
 	public static boolean tieneLongitudCorrecta(String nombreCompleto) {
